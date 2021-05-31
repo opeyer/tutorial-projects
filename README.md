@@ -3,7 +3,7 @@ A repo made exclusively to store various tutorial projects I've undertaken as we
 
 # Currently working on
 
-freecodecamp (freecodecamp)
-MDN Web Docs (MDN-web-docs)
-The Odin Project (odin)
+freecodecamp (freecodecamp)<br />
+MDN Web Docs (MDN-web-docs)<br />
+The Odin Project (odin)<br />
 Python 4 Everybody (py4e)
