@@ -1,5 +1,5 @@
 # tutorial-projects
-A repo made exclusively to store various tutorial projects I've undertaken as well as any related notes.
+A repo made exclusively to store various tutorial projects I've undertaken as well as any related notes or assets. These projects are provided in a somewhat raw presentation, with the current goal being primarily storage. Secondarily, this can be seen as a way of showcasing things I have learned.
 
 # Currently working on
 
