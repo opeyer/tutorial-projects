@@ -5,6 +5,5 @@ A repo made exclusively to store various tutorial projects I've undertaken as we
 
 freecodecamp (freecodecamp)<br />
 MDN Web Docs (MDN-web-docs)<br />
-MITx 6.00.1x (MITx)<br />
 The Odin Project (odin)<br />
 Python 4 Everybody (py4e)
