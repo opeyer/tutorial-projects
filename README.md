@@ -4,6 +4,6 @@ A repo made exclusively to store various tutorial projects I've undertaken as we
 # Currently working on
 
 freecodecamp (freecodecamp)<br />
-MDN Web Docs (MDN-web-docs)<br />
 The Odin Project (odin)<br />
-Python 4 Everybody (py4e)
+talkpython.fm's Jumpstart by Building 10 Apps<br />
+Microsoft's DOTNET C# tutorials
