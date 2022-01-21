@@ -3,7 +3,13 @@ A repo made exclusively to store various tutorial projects I've undertaken as we
 
 # Currently working on
 
+The Rust Programming Language by Steve Klabnik and Carol Nichols<br />
+
+
 freecodecamp (freecodecamp)<br />
 The Odin Project (odin)<br />
 talkpython.fm's Jumpstart by Building 10 Apps<br />
 Microsoft's DOTNET C# tutorials
+
+# Completed
+None yet!
