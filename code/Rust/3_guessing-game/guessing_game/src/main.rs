@@ -15,7 +15,7 @@ fn main() {
     // FOR DEBUG: Uncomment to display secret number
     // println!("The secret number is: {}", secret_number);
 
-    //Create a loop so that the game will continue beyond a singular guess.
+    // Create a loop so that the game will continue beyond a singular guess.
     loop {
 
         // Ask user to input guess.
@@ -54,7 +54,7 @@ fn main() {
             Ordering::Equal => {
                 println!("Yeah, buddy! You got it! You got it!!!");
 
-                //If the guess is equal, we end the program.
+                // If the guess is equal, we end the program.
                 break;
 
             }
