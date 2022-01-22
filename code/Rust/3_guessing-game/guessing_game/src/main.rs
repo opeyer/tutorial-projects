@@ -1,5 +1,4 @@
 // Summon libraries.
-
 use std::io;
 use std::cmp::Ordering;
 use rand::Rng;
@@ -18,6 +17,7 @@ fn main() {
 
     //Create a loop so that the game will continue beyond a singular guess.
     loop {
+
         // Ask user to input guess.
         println!("Please input your guess.");
 
@@ -54,6 +54,7 @@ fn main() {
 
                 //If the guess is equal, we end the program.
                 break;
+                
             }
 
         }
