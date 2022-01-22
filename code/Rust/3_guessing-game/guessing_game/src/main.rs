@@ -26,8 +26,10 @@ fn main() {
 
         // Summon stdin() from the io library
         io::stdin()
+
             // Use read_line on the mutable guess.
             .read_line(&mut guess)
+
             // If there is an error, it will tell the user that the application failed to read the line.
             .expect("Failed to read line");
 
@@ -54,7 +56,7 @@ fn main() {
 
                 //If the guess is equal, we end the program.
                 break;
-                
+
             }
 
         }
