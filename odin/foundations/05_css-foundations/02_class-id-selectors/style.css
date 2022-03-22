@@ -1,7 +1,19 @@
-div {
+.odd {
   background-color: red;
-  color: white;
-  font-size: 30px;
-  align: center;
+  font-family: "Verdana", "DejaVu Sans", sans-sarif
+}
+
+#element2 {
+  color: blue;
+  font-size: 36px;
+}
+
+.element3 {
+  font-size: 24px;
+}
+
+#element4 {
+  background-color: green;
+  font-size: 24px;
   font-weight: bold;
 }
