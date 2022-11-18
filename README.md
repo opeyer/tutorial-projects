@@ -2,5 +2,5 @@ Hi! This is a repository for various minor tutorial projects and scratch work th
 
 # Resources
 ## HTML/CSS Projects
-- FreeCodeCamp
+- [FreeCodeCamp](https://www.freecodecamp.org/opeyer)
 - The Odin Project
