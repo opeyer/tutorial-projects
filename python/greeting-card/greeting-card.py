@@ -1,4 +1,4 @@
-# Elevator Conversion Tool
+# Greeting Card
 # Pre-alpha version
 # by Otto William Peyer IV
 
