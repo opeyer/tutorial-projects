@@ -12,9 +12,18 @@ print('========================')
 hours = input("Enter hours: ")
 rate = input("Enter rate (in $USD per hour): ")
 
-
 try:
     hoursInt = int(hours)
+    floatHours = float(hours)
+except:
+    print("Error! Please enter numeric input (hours).")
+
+try:
+    floatRate = float(rate)
+except:
+    print("Error! Please enter numeric input (rate).")
+
+try:
     if hoursInt <= 40:
         gross = float(hours) * float(rate)
     elif hoursInt > 40:
@@ -24,4 +33,4 @@ try:
         gross = grossPreOvertime + overtimePay
     print("Your pay is $", gross, "!")
 except:
-    print("Error! Please enter numeric input.")
+    print("Error!")
