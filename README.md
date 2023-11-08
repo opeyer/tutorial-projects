@@ -3,4 +3,7 @@ Hi! This is a repository for various minor tutorial projects and scratch work th
 # Resources
 ## HTML/CSS Projects
 - [FreeCodeCamp](https://www.freecodecamp.org/opeyer)
-- The Odin Project
+- [The Odin Project](https://theodinproject.com/)
+
+## Python
+- [Python for Everybody/PY4E](https://www.py4e.com/)
